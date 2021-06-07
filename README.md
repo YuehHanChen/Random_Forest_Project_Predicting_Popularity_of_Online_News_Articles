@@ -1,1 +1,1 @@
-# Random_Forest_Project_Predicting_Popularity_of_Online_News_Articles
+# Predicting_Popularity_of_Online_News_Articles
